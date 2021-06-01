@@ -10,7 +10,7 @@ Your study buddy who will help you to study.
 ## App Screenshots
 Onboarding Page                            |  Login Page                         |  Signup Page
 :-----------------------------------------:|:-----------------------------------:|:-------------------------:
-![Onboarding page](./ss/onboardings.jpeg)  | ![Login Page](./ss/loginp.jpeg)     | ![Signup Page](./ss/signup.jpeg)
+![Onboarding page](./ss/onboardings.jpeg)  | ![Login Page](./ss/login.jpeg)     | ![Signup Page](./ss/register.jpeg)
 
 
 
