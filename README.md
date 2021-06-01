@@ -1,7 +1,7 @@
 # Study Buddy App
 
 This is an Android application which will help students to manage their studies.
-<br/><br/>
+<br/>
 
 
 ## Features
@@ -11,7 +11,6 @@ This is an Android application which will help students to manage their studies.
 3. Schedule Manager
 4. Scoring system 
 
-<br>
 
 ## App Screenshots
 
@@ -42,5 +41,4 @@ Dashboard                           |  Study Timer                        |  Tas
 -   Manage your schedule
 -   Set reminders for important submissions, exams, etc.
 
-
-
+##
