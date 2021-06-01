@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imgpage"
+        android:src="@drawable/buddy"
+        android:layout_width="385dp"
+        android:layout_height="390dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <TextView
+        android:id="@+id/titlepage"
+        android:layout_width="357dp"
+        android:layout_height="99dp"
+        android:layout_marginTop="40dp"
+        android:text="Hey! \n I'm your Study Buddy"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="32sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgpage" />
+
+    <TextView
+        android:id="@+id/subtitlepage"
+        android:layout_width="328dp"
+        android:layout_height="86dp"
+        android:layout_marginTop="30dp"
+        android:text="I'll help you \n Study Effectively "
+        android:textAlignment="center"
+        android:textColor="#4C5067"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/titlepage" />
+
+    <View
+        android:id="@+id/bgprogress"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="0dp"
+        android:background="#FEBFAB"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toStartOf="parent"
+        />
+
+    <View
+        android:id="@+id/bgprogressstop"
+        android:layout_width="170dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginStart="0dp"
+        android:background="#FEBFAB"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        />
+
+       <TextView
+           android:id="@+id/btnstudy"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginBottom="12dp"
+           android:layout_marginStart="8dp"
+           android:layout_marginEnd="8dp"
+           android:text="START STUDYING"
+           android:textAlignment="center"
+           android:textColor="#FFFFFF"
+           android:textSize="22sp"
+           app:layout_constraintBottom_toBottomOf="parent"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintEnd_toEndOf="parent"
+           />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="115dp"
+        android:layout_height="115dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="4dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnstudy"
+        app:layout_constraintEnd_toStartOf="@+id/btnstudy"
+        app:layout_constraintHorizontal_bias="0.639"
+        app:layout_constraintStart_toEndOf="@+id/bgprogress"
+        app:srcCompat="@drawable/arrow_foreground" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
