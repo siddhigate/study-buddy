@@ -1,7 +1,7 @@
 # Study Buddy App
 
-Your buddy who will help you to study.
-
+This is an Android application which will help students to manage their studies.
+<br/><br/>
 
 Onboarding Page                            |  Login Page                         |  Signup Page
 :-----------------------------------------:|:-----------------------------------:|:-------------------------:
