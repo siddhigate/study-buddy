@@ -2,6 +2,18 @@
 
 Your buddy who will help you to study.
 
+
+Onboarding Page                            |  Login Page                         |  Signup Page
+:-----------------------------------------:|:-----------------------------------:|:-------------------------:
+![Onboarding page](./ss/onboardings.jpeg)  | ![Login Page](./ss/login.jpeg)     | ![Signup Page](./ss/register.jpeg)
+
+
+
+Dashboard                           |  Study Timer                        |  Task List
+:----------------------------------:|:-----------------------------------:|:-------------------------:
+![Dashboard](./ss/home.jpeg)        | ![Study Timer](./ss/timer.jpeg)      | ![Task List](./ss/tasklist.jpeg)
+
+
 ## Features
 
 ### 1. Study Timer
@@ -14,17 +26,3 @@ Your buddy who will help you to study.
 ### 2. Task List
 -   Use the task list feature to maintain your daily tasks.
 -   This will help you stay organized.
-
-
-
-## App Screenshots
-Onboarding Page                            |  Login Page                         |  Signup Page
-:-----------------------------------------:|:-----------------------------------:|:-------------------------:
-![Onboarding page](./ss/onboardings.jpeg)  | ![Login Page](./ss/login.jpeg)     | ![Signup Page](./ss/register.jpeg)
-
-
-
-Dashboard                           |  Study Timer                        |  Task List
-:----------------------------------:|:-----------------------------------:|:-------------------------:
-![Dashboard](./ss/home.jpeg)        | ![Study Timer](./ss/timer.jpeg)      | ![Task List](./ss/tasklist.jpeg)
-
