@@ -1,6 +1,6 @@
 # Study Buddy App
 
-Your study buddy who will help you to study.
+Your buddy who will help you to study.
 
 ## Features
 
